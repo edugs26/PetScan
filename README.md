@@ -11,7 +11,7 @@ El modelo de clasificación se basa en una red neuronal convolucional (CNN, por 
 - Interfaz de usuario móvil moderna
 - Compatibilidad con iOS
 
-##Tecnologías utilizadas
+## Tecnologías utilizadas
 - Kotlin
 - Compose Multiplatform
 - TensorFlow Lite
